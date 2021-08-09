@@ -1,0 +1,11 @@
+column_name,description,unit
+id,individual fish id,NA
+family,taxonomic family,NA
+genus,taxonomic genus,NA
+species,taxonomic name,NA
+location,location of collection in French Polynesia,NA
+weight,body weight,g
+tl,total length,mm
+sl,standard length,mm
+delta15N,δ15N,‰
+troph,food items-based trophic level from FishBase,NA

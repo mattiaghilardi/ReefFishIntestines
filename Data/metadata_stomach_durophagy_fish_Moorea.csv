@@ -1,0 +1,6 @@
+column_name,description
+family,taxonomic family
+genus,taxonomic genus
+species,taxonomic name
+stomach,presence/absence of a functional stomach: 0 = absence; 1 = presence
+durophagy,durophagous diet: 0 = not durophagous; 1 = durophagous
