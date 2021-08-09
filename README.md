@@ -6,7 +6,9 @@ Ghilardi, M., Schiettekatte, N. M. D., Casey, J. M., Brandl, S. J., Degregori, S
 
 When using code or data from this project, please cite it as:
 
-Ghilardi, M., Schiettekatte, N. M. D., Casey, J. M., Brandl, S. J., Degregori, S., Mercière, A., Morat, F., Letourneur, Y., Bejarano, S., Parravicini, V. (2021) Data and code of accepted version of manuscript: Phylogeny, body morphology, and trophic level shape intestinal traits in coral reef fishes (Ecology and Evolution). *Zenodo*.
+Ghilardi, M., Schiettekatte, N. M. D., Casey, J. M., Brandl, S. J., Degregori, S., Mercière, A., Morat, F., Letourneur, Y., Bejarano, S., Parravicini, V. (2021) Data and code of accepted version of manuscript: Phylogeny, body morphology, and trophic level shape intestinal traits in coral reef fishes (Ecology and Evolution). *Zenodo*. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5172790.svg)](https://doi.org/10.5281/zenodo.5172790)
+
+
 
 # Instructions
 
