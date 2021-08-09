@@ -12,14 +12,14 @@ Ghilardi, M., Schiettekatte, N. M. D., Casey, J. M., Brandl, S. J., Degregori, S
 
 All modelling and plots were produced in R using [Stan](https://mc-stan.org/) through the [brms](https://paul-buerkner.github.io/brms/) package.
 
-If you would like to replicate our analysis, run the code in the folder [`R/Analysis`](https://github.com/mattiaghilardi/ReefFishIntestines/tree/master/R/Analysis) in this order:
+If you would like to replicate our analysis, run the code in the folder [`R/Analysis`](https://github.com/mattiaghilardi/ReefFishIntestines/blob/main/R/Analysis) in this order:
 
-- [0_set_up_project.R](https://github.com/mattiaghilardi/ReefFishIntestines/tree/master/R/Analysis/0_set_up_project.R)
-- [1_FishBase_traits.R](https://github.com/mattiaghilardi/ReefFishIntestines/tree/master/R/Analysis/1_FishBase_traits.R)
-- [2_isotope_analysis.R](https://github.com/mattiaghilardi/ReefFishIntestines/tree/master/R/Analysis/2_isotope_analysis.R)
-- [3_intestine_analysis.R](https://github.com/mattiaghilardi/ReefFishIntestines/tree/master/R/Analysis/3_intestine_analysis.R)
-- [4_sensitivity_analysis.R](https://github.com/mattiaghilardi/ReefFishIntestines/tree/master/R/Analysis/4_sensitivity_analysis.R)
-- [5_figures.R](https://github.com/mattiaghilardi/ReefFishIntestines/tree/master/R/Analysis/5_figures.R)
+- [0_set_up_project.R](https://github.com/mattiaghilardi/ReefFishIntestines/blob/main/R/Analysis/0_set_up_project.R)
+- [1_FishBase_traits.R](https://github.com/mattiaghilardi/ReefFishIntestines/blob/main/R/Analysis/1_FishBase_traits.R)
+- [2_isotope_analysis.R](https://github.com/mattiaghilardi/ReefFishIntestines/blob/main/R/Analysis/2_isotope_analysis.R)
+- [3_intestine_analysis.R](https://github.com/mattiaghilardi/ReefFishIntestines/blob/main/R/Analysis/3_intestine_analysis.R)
+- [4_sensitivity_analysis.R](https://github.com/mattiaghilardi/ReefFishIntestines/blob/main/R/Analysis/4_sensitivity_analysis.R)
+- [5_figures.R](https://github.com/mattiaghilardi/ReefFishIntestines/blob/main/R/Analysis/5_figures.R)
 
 This will reproduce the entire analysis from start to finish.
 
@@ -30,7 +30,7 @@ The output will be saved in four separate folders:
 📁 **Figures**: for all the figures in the manuscript and supporting information  
 📁 **Tables**: for all supplementary tables
 
-Note that running the script `1_FishBase_traits.R` may generate slightly different values for the traits from those used in the paper due to updates in FishBase. Also, taxonomic names are continuously revised in FishBase and this may lead to errors when running the script. The complete dataset used in the paper, including traits' values, is included in `Data` ([*intestine_fish_Moorea_FB.traits.csv*](https://github.com/mattiaghilardi/ReefFishIntestines/tree/master/Data/intestine_fish_Moorea_FB.traits.csv)).
+Note that running the script `1_FishBase_traits.R` may generate slightly different values for the traits from those used in the paper due to updates in FishBase. Also, taxonomic names are continuously revised in FishBase and this may lead to errors when running the script. The complete dataset used in the paper, including traits' values, is included in `Data` ([*intestine_fish_Moorea_FB.traits.csv*](https://github.com/mattiaghilardi/ReefFishIntestines/blob/main/Data/intestine_fish_Moorea_FB.traits.csv)).
 
 ## The following software and associated packages were used:
 
