@@ -12,7 +12,7 @@ Ghilardi, M., Schiettekatte, N. M. D., Casey, J. M., Brandl, S. J., Degregori, S
 
 All modelling and plots were produced in R using [Stan](https://mc-stan.org/) through the [brms](https://paul-buerkner.github.io/brms/) package.
 
-If you would like to replicate our analysis, run the code in the folder [`R/Analysis`](https://github.com/mattiaghilardi/reef_fish_intestines/tree/master/R/Analysis) in this order:
+If you would like to replicate our analysis, run the code in the folder [`R/Analysis`](https://github.com/mattiaghilardi/ReefFishIntestines/tree/master/R/Analysis) in this order:
 
 - [0_set_up_project.R](https://github.com/mattiaghilardi/ReefFishIntestines/tree/master/R/Analysis/0_set_up_project.R)
 - [1_FishBase_traits.R](https://github.com/mattiaghilardi/ReefFishIntestines/tree/master/R/Analysis/1_FishBase_traits.R)
