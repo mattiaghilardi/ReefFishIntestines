@@ -2,7 +2,7 @@
 
 This repository holds all the code and data needed to reproduce the manuscript:
 
-Ghilardi, M., Schiettekatte, N. M. D., Casey, J. M., Brandl, S. J., Degregori, S., Mercière, A., Morat, F., Letourneur, Y., Bejarano, S., Parravicini, V. (2021) Phylogeny, body morphology, and trophic level shape intestinal traits in coral reef fishes. *Ecology and Evolution* (in press).
+Ghilardi, M., Schiettekatte, N. M. D., Casey, J. M., Brandl, S. J., Degregori, S., Mercière, A., Morat, F., Letourneur, Y., Bejarano, S., Parravicini, V. (2021) Phylogeny, body morphology, and trophic level shape intestinal traits in coral reef fishes. *Ecology and Evolution*. [![DOI](https://img.shields.io/badge/DOI-10.1002/ece3.8045-blue)](https://doi.org/10.1002/ece3.8045)
 
 When using code or data from this project, please cite it as:
 
